@@ -1,0 +1,16 @@
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\obj\Debug\net10.0\ControlDeLibros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\obj\Debug\net10.0\ControlDeLibros.AssemblyInfoInputs.cache
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\obj\Debug\net10.0\ControlDeLibros.AssemblyInfo.cs
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\obj\Debug\net10.0\ControlDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\obj\Debug\net10.0\ControlDeLibros.sourcelink.json
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\bin\Debug\net10.0\ControlDeLibros.exe
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\bin\Debug\net10.0\ControlDeLibros.deps.json
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\bin\Debug\net10.0\ControlDeLibros.runtimeconfig.json
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\bin\Debug\net10.0\ControlDeLibros.dll
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\bin\Debug\net10.0\ControlDeLibros.pdb
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\obj\Debug\net10.0\ControlDeLibros.dll
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\obj\Debug\net10.0\refint\ControlDeLibros.dll
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\obj\Debug\net10.0\ControlDeLibros.pdb
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\obj\Debug\net10.0\ControlDeLibros.genruntimeconfig.cache
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\obj\Debug\net10.0\ref\ControlDeLibros.dll
+C:\Users\lexte\OneDrive\Documents\GitHub\Agenda_Personal\ControlDeLibros\ControlDeLibros\obj\Debug\net10.0\ControlD.0A76BE74.Up2Date
